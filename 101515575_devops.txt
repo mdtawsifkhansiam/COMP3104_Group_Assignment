@@ -9,3 +9,11 @@ Course Topics:
 - Containerization with Docker
 - Infrastructure as Code
 Practical Skills: Branch management, GitHub Actions
+
+
+Industry Relevance:
+- Adopted by 80% of Fortune 500 companies
+- Essential for agile development practices
+- Foundation for cloud computing careers (AWS, Azure)
+- Critical for startup scalability and efficiency
+- Standard in fintech, e-commerce, and tech companies
