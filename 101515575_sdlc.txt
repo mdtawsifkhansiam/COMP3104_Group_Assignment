@@ -17,3 +17,12 @@ Career Impact of DevOps Skills:
 - Cross-functional team experience
 - Foundation for cloud engineering roles
 - Essential for modern software development
+
+
+SDLC Integration Points:
+- Planning: Infrastructure requirements
+- Coding: Version control and peer reviews
+- Building: Automated CI pipelines
+- Testing: Automated test suites
+- Deployment: CD pipelines to production
+- Monitoring: Performance and usage metrics
