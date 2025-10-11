@@ -2,3 +2,10 @@ COMP 3104 DevOps Course
 Instructor: [Your Professor]
 Focus: CI/CD, Git, Automation
 Tools: GitHub, Jenkins, Docker
+
+Course Topics:
+- Version Control with Git
+- Continuous Integration
+- Containerization with Docker
+- Infrastructure as Code
+Practical Skills: Branch management, GitHub Actions
