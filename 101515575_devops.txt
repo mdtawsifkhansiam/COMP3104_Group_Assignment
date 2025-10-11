@@ -26,3 +26,8 @@ DevOps Methodologies:
 - Automated security scanning (DevSecOps)
 - Blue-green deployment strategies
 - Canary release techniques
+
+
+Course Outcome: Students gain hands-on experience with 
+modern DevOps tools and practices essential for 
+software development careers.
