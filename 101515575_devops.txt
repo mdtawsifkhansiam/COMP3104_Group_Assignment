@@ -1,5 +1,5 @@
 COMP 3104 DevOps Course
-Instructor: [Your Professor]
+Instructor: [Pritesh Patel
 Focus: CI/CD, Git, Automation
 Tools: GitHub, Jenkins, Docker
 
