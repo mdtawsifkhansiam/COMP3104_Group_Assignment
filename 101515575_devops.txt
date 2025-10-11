@@ -1,0 +1,4 @@
+COMP 3104 DevOps Course
+Instructor: [Your Professor]
+Focus: CI/CD, Git, Automation
+Tools: GitHub, Jenkins, Docker

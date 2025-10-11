@@ -1,0 +1,5 @@
+DevOps in Software Development
+- Continuous Integration
+- Automated Testing
+- Rapid Deployment
+- Improved collaboration
