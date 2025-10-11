@@ -17,3 +17,12 @@ Industry Relevance:
 - Foundation for cloud computing careers (AWS, Azure)
 - Critical for startup scalability and efficiency
 - Standard in fintech, e-commerce, and tech companies
+
+
+DevOps Methodologies:
+- Infrastructure as Code (IaC) using Terraform
+- Continuous Monitoring and logging
+- Microservices architecture patterns
+- Automated security scanning (DevSecOps)
+- Blue-green deployment strategies
+- Canary release techniques
