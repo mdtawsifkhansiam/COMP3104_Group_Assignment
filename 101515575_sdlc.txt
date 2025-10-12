@@ -1,0 +1,11 @@
+DevOps in Software Development
+- Continuous Integration
+- Automated Testing
+- Rapid Deployment
+- Improved collaboration
+
+Benefits of DevOps:
+1. Faster time to market
+2. Reduced deployment failures
+3. Improved team collaboration
+4. Faster problem resolution
