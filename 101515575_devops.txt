@@ -1,5 +1,5 @@
 COMP 3104 DevOps Course
-Instructor: [Your Professor]
+Instructor: [Pritesh Patel
 Focus: CI/CD, Git, Automation
 Tools: GitHub, Jenkins, Docker
 
@@ -9,3 +9,25 @@ Course Topics:
 - Containerization with Docker
 - Infrastructure as Code
 Practical Skills: Branch management, GitHub Actions
+
+
+Industry Relevance:
+- Adopted by 80% of Fortune 500 companies
+- Essential for agile development practices
+- Foundation for cloud computing careers (AWS, Azure)
+- Critical for startup scalability and efficiency
+- Standard in fintech, e-commerce, and tech companies
+
+
+DevOps Methodologies:
+- Infrastructure as Code (IaC) using Terraform
+- Continuous Monitoring and logging
+- Microservices architecture patterns
+- Automated security scanning (DevSecOps)
+- Blue-green deployment strategies
+- Canary release techniques
+
+
+Course Outcome: Students gain hands-on experience with 
+modern DevOps tools and practices essential for 
+software development careers.

@@ -9,3 +9,26 @@ Benefits of DevOps:
 2. Reduced deployment failures
 3. Improved team collaboration
 4. Faster problem resolution
+
+
+Career Impact of DevOps Skills:
+- High demand in job market (80% of companies hiring)
+- Competitive salary ranges ($80,000-$120,000)
+- Cross-functional team experience
+- Foundation for cloud engineering roles
+- Essential for modern software development
+
+
+SDLC Integration Points:
+- Planning: Infrastructure requirements
+- Coding: Version control and peer reviews
+- Building: Automated CI pipelines
+- Testing: Automated test suites
+- Deployment: CD pipelines to production
+- Monitoring: Performance and usage metrics
+
+
+
+Overall Importance: DevOps transforms traditional 
+SDLC by enabling faster, more reliable software 
+delivery with improved quality and collaboration.

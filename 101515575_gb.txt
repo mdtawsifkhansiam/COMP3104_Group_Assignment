@@ -9,3 +9,14 @@ Student Services: Career counseling, tutoring, labs
 Location: Downtown Toronto core
 Notable Features: State-of-the-art computer labs
  
+College Facilities:
+- Advanced computer labs with latest software
+- Dedicated programming and networking labs
+- Library with tech resources and online access
+- Student lounge and collaborative spaces
+- Career center for job placement assistance
+
+
+Conclusion: George Brown College provides comprehensive 
+tech education with industry-aligned programs and 
+excellent career preparation opportunities.
